@@ -12,7 +12,7 @@ The files for closed-world evaluation that contain the packet sizes and timestam
 
 The files for open-world evaluation are named starting at 100 (if you have 100 websites as monitored websites and the classes range from 0-99).
 
-Sample files are given in the folder /dataset
+Sample files are given in the folder /dataset.
 
 The grid search parameters are the same as those in the original paper in section VI, page 8.
 
